@@ -1,14 +1,18 @@
+## part 1: ##
+
 * [1stbase](https://link.clashofclans.com/en?action=OpenLayout&id=TH13%3AHV%3AAAAAFwAAAAHM1S0_OuWRVz57IMAMFKo2)
 * [2ndbase](https://link.clashofclans.com/en?action=OpenLayout&id=TH13%3AHV%3AAAAAFwAAAAHM1TYQY52MUAtJAuNNyAs7)
 * [3rdbase](https://link.clashofclans.com/en?action=OpenLayout&id=TH13%3AHV%3AAAAAFwAAAAHM1TjdGfiIuYqIsJH7V9E0)
 * [4thbase](https://link.clashofclans.com/en?action=OpenLayout&id=TH13%3AHV%3AAAAAFwAAAAHM1TvSkCmSi6yg82rqZa_P)
 
+## part 2: ##
 
 * [Base1.QueenWalkers-Klaus, CC:1Lavahound+2hunters+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQ9PJQ1ZyZxu2zX0-wrxbb)
 * [Base2.QueenWalkers-Yuta14](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQ9wDF1tqW8k3esyLGIisp)
 * [Base3.QueenWalkers-GAKU, CC:1lavahound+2hunters+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQ93xchdufZarxfdJibtpP)
 * [Base4.Spacestation-SSGBoone, CC:1lavahound+2hunters+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQ-HUxHfTnx6XYB5kqe2m0)
 
+## part 3: ##
 
 * [Base1, CC:2superMinions+15archers+6Goblins, Bestbtw:5000to5500](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQ8Ix7N5qDYuJz3PgxA3ME)
 * [Base2. CC:1lavahound+2hunter+3archers, Bestbtw:5400to5700](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQ8JZxh8TnP1vDh4-t9xnJ)
@@ -17,15 +21,18 @@
 * [Base5. CC:lavahound+15archers Bestbtw:5500+](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQ8R3MlBiroOs8rDi3tnuv)
 * [Base6. CC:1lavahound+2hunters+3archers Bestbtw:5200+to5600](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQ8SuYtfJj7Qw7A2skP7HA)
 
+## part 4: ##
 
 * [Base1. Defender:1Star/67% Attack: WardenWalk+3Witch+5Yeti+5SuperWizards CC:1lavahound+2hunters+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQ04V3SuFzXtvmSZe4NdJq)
 * [Base2. Defender:1Star/95% Attack:10Witches+10Yetis CC:1lavahound+2hunters+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQ1UnX8mDRIncKBLX3NEu7)
 * [Base3. Defender:1Star/84% Attack:QueenWalk+14Miners+15Hogs CC:1lavahound+2hunters+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQ1quKRZI6o4BS-1lp2Jdw)
 * [Base4. Defender:1Star/89% Attack:4Golems+8superWizard+8Witch +8Earthquake CC:1lavahound+2hunters+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQ2KgJijvaX8EIH-N350AS)
 
+## part 5: ##
 
 * [base](https://link.clashofclans.com/en?action=OpenLayout&id=TH13%3AHV%3AAAAAFwAAAAHMnbm5OnPF1z9vvPfSNf_W)
 
+## part 6: ##
 
 * [Base1.CC:2SuperMinions+2hunters+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAAPAAAAAFzqmwslikEyHa5CC5cvZ8N)
 * [Base2. CC:1Dragon+1witch+2hunters](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAAPAAAAAF0NQOiutlIcr_dpTReFRu8)
@@ -34,6 +41,7 @@
 * [Base5.CC:2SuperMinions+3hunters+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAAPAAAAAF1e8z_BLxM6TjFv5LZKX_5)
 * [Base6.CC:2SuperMinions+3hunters+3Goblins](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAAPAAAAAF2L8rq35PR3a88Uoq1uGEu)
 
+## part 7: ##
 
 * [Base1.SpaceStation-MentalJoker CC:1Lavahound+2hunters+3Archers](https://link.clashofclans.com/en?action=OpenLayout&id=TH13%3AWB%3AAAAAGgAAAAHJQOQSiMdavrUuckL9ITc4)
 * [Base2. Spacestation-Ghost CC:2superminions+11Goblibs+10archers](https://link.clashofclans.com/en?action=OpenLayout&id=TH13%3AWB%3AAAAAMAAAAAGa81atid8SJ48sac27L8zj)
@@ -42,6 +50,7 @@
 * [Base5. SpaceStation-Ghost CC:3Superminions+9archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGOtoVfdXdJnCo8R0LiVt_T)
 * [Base6. SpaceStation-Ghost CC:1lavahound+2hunters+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGOtpSJwpJio6epg0zzkt3T)
 
+## part 8: ##
 
 * [1st base](https://link.clashofclans.com/en?action=OpenLayout&id=TH13%3AHV%3AAAAAFwAAAAHMVAsa5uiEIKQJFfMMefWD)
 * [2nd base](https://link.clashofclans.com/en?action=OpenLayout&id=TH13%3AHV%3AAAAAFwAAAAHMVBEyyKz4hrUSX1KVWRPq)
@@ -49,15 +58,18 @@
 * [4th base](https://link.clashofclans.com/en?action=OpenLayout&id=TH13%3AHV%3AAAAAFwAAAAHMVBoxNbpGj71CPjWFoNPX)
 * [5th base](https://link.clashofclans.com/en?action=OpenLayout&id=TH13%3AHV%3AAAAAFwAAAAHMVB6Phq6xrTe6pDlVQJFZ)
 
+## part 9: ##
 
 * [Base](https://link.clashofclans.com/en?action=OpenLayout&id=TH9%3ABB%3AAAAACwAAAAHfschlBFjFVI1X02a7KTBd)
 
+## part 10: ##
 
 * [Base1. Defender:1Star/59% Attacker:2Lavahound+1icehound+31Balloons+8LightningSpells CC:1Lavahound+2hunter+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQVl0wAM5-4dGDmRaPVtda)
 * [Base2. Defender:1Star/64% Attacker:10Dragons+8Balloons+2E-Dragons +6LightningSpells+1EarthQuake CC:1Lavahound+1iceHound](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQWeeCvzvUaH4N56qSqEKV)
 * [Base3. Defender:1Star/84% Attacker:8E-Dragons+10Balloons CC:1Lavahound+1witch+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQXXOBfthhRjVEKHT7D_5M)
 * [Base4. Defender:1Star/72% Attacker:wardenwalke+3Witch+5Yeti +8Bowler+1iceGolem CC:1Dragon+1witch+6Goblins+7archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQX8El8jvxjMRSEFXaBF66)
 
+## part 11: ##
 
 * [Base1. Penta-Muffin CC:1Dragon+4hunters+1archer](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQPJd9VhprncVn1L675_kp)
 * [Base2. Penta-Epi CC:1Lavahound+2hunters+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQPueiUnyFTi-3vlxbk0-N)
@@ -67,6 +79,7 @@
 * [Base6. Penta-Louis CC:1Lavahound+2hunters+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQPSWTR9FnzPWD9JosbNeW)
 * [Base7. Penta-Zahkia CC:1Lavahound+2hunters+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQPMuRXSB7TH9or9_3ZXiS)
 
+## part 12: ##
 
 * [Base.1 NichangDance-少年 CC:2superMinions+3hunters+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQK39WiHLi_TWMlY-roH0x)
 * [Base2. NichangDance-LeiFeng CC:2superMinions+3hunters+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQNNl9V14PyatQktxQCwWT)
@@ -77,6 +90,7 @@
 * [Base7. H.TFamily-JinMu CC:1Lavahound+2hunters+3Archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQNdr5wiDgqF1chqNHSdbM)
 * [Base8. H.TFamily-Iseeyou CC:1Lavahound+2hunters+3Archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGQNfOeiGAMZRDuJhI0n761)
 
+## part 13: ##
 
 * [Base1.CC:1Lavahound+2hunter+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGRC7CFZw_cgkV6BSjld_ED)
 * [Base2.CC:2superMinions+3hunters+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGRDJi-0sEFADQN1FQN6KzE)
@@ -94,6 +108,7 @@
 * [Base14.CC:3superminions+1hunter+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGRDjMMYon9pqOEqNk_QuTk)
 * [Base15.CC:3superminions+1hunter+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGRDjzpqnE4z1I_ZMge0pzc)
 
+## part 14: ##
 
 * [Base1.CC:1lavahound+1iceGolem](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGRGB1keWc2tFJH67g8OdJp)
 * [Base2.CC:3superminions+1hunter+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGRGCkmZrK06yuX6CxcDQfa)
@@ -111,17 +126,15 @@
 * [Base14.CC:2SuperMinions+15archers+6Goblins](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGRGkRt1xf5r6cHTYrx39iw)
 * [Base15.CC:2SuperMinions+15archers+6Goblins](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGRGlbXxHqo9Wq2Y1XBLy_F)
 
+## part 15: ##
 
 Bestcc
-
 
 1)lava+15arch
 2)lava+hh
 3)Lava+Ig
 
-
 myfavourite11,12,13,15
-
 
 * [1st base](https://link.clashofclans.com/en?action=OpenLayout&id=TH13%3AWB%3AAAAAFwAAAAHNEXYI2vPypmIbunnuTgpj)
 * [2nd base](https://link.clashofclans.com/en?action=OpenLayout&id=TH13%3AWB%3AAAAAFwAAAAHNEXsDVqa212Hr40zbhA8K)
@@ -139,6 +152,7 @@ myfavourite11,12,13,15
 * [14th base](https://link.clashofclans.com/en?action=OpenLayout&id=TH13%3AWB%3AAAAAFwAAAAHNE0ziVqTZM69WfCB-Vy48)
 * [15th base](https://link.clashofclans.com/en?action=OpenLayout&id=TH13%3AWB%3AAAAAFwAAAAHNE0_aewLE1FtVfP9w-pzP)
 
+## part 16: ##
 
 * [Base1](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAAHQAAAAG9p5JmULMXjqCjZdwr4WYs)
 * [Base2](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAARwAAAAFnXOfqdukDt6ihxIYXcuiU)
