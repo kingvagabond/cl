@@ -82,7 +82,7 @@
 [Base14.CC:3superminions+1hunter+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGRDjMMYon9pqOEqNk_QuTk)
 [Base15.CC:3superminions+1hunter+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGRDjzpqnE4z1I_ZMge0pzc)
 
-[Base1.CC:1lavahound+1iceGolem}(https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGRGB1keWc2tFJH67g8OdJp)
+[Base1.CC:1lavahound+1iceGolem](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGRGB1keWc2tFJH67g8OdJp)
 [Base2.CC:3superminions+1hunter+3archers](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGRGCkmZrK06yuX6CxcDQfa)
 [Base3.CC:1lavahound+5archers+10Goblins](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGRFJXKP8nZWU8xqnpDDn_S)
 [Base4.CC:1lavahound+5archers+10Goblins](https://link.clashofclans.com/cn?action=OpenLayout&id=TH13%3AWB%3AAAAANQAAAAGRGEjHz9trNEVifvSMH7aZ)
